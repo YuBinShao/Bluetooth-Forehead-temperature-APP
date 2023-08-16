@@ -1,2 +1,1 @@
-# BLE_Example
-藍芽BLE之Android範例
+Bluetooth-Forehead-temperature-APP
